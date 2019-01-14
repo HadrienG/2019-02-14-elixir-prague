@@ -101,6 +101,7 @@ address.
   <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
   or
   <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
+  Participants can meet at the reception of the building B (Technicka 3) 15 min before the beginning of the course.
 </p>
 {% endif %}
 
